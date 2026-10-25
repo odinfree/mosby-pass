@@ -17,7 +17,7 @@ without exposing the attendee's public wallet to the organizer.
 | Client and verifier tests | 13 pass |
 | Static client | Typecheck and production build pass |
 | Dependency audit | 0 known vulnerabilities |
-| Public demo | [GitHub Pages](https://welttowelt.github.io/mosby-pass/) |
+| Public demo | [GitHub Pages](https://odinfree.github.io/mosby-pass/) |
 
 The product was renamed from Veilpass to Mosby Pass. The already-deployed Cairo
 class and compatibility storage keys retain their original technical names;
